@@ -7,6 +7,12 @@ public class HW {
 		int b = 35;
 		
 		System.out.println(a+b);
+
+		}
+	
+	public void setCountry() {
+		System.out.println("USA");
+	
 	}
 
 }
